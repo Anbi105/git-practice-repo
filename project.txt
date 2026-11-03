@@ -1,0 +1,4 @@
+Student Project
+Name: Anbi
+Project: Git and GitHub Practical
+Description: Learning Git branching, commits, pushes and pull requests.
